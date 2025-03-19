@@ -1,8 +1,8 @@
 <div align="center">
   <h1 align="center">
     Juego del amigo secreto
-    <a href='file:///C:/Users/naval/OneDrive/Documentos/juego-amigo-secreto/index.html'>
-    <img src=<img src='./assets/Juego.png' alt="Amigo secreto logo">
+    ![Amigo secreto logo]([https://imgur.com/4tyOT2s](https://imgur.com/a/FmHZoHo)
+
     </a>
 
 ### Tópicos
