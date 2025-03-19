@@ -1,7 +1,10 @@
 <div align="center">
   <h1 align="center">
     Juego del amigo secreto
-   ![logo](https://github.com/user-attachments/assets/0cc73040-7aaf-45d1-8009-c88693f385e4)
+  </h1>  
+</div>
+  
+![logo](https://github.com/nadialop-dot/mi-primer-proyecto/blob/main/assets/Juego.png)
 
   
 ### Tópicos
