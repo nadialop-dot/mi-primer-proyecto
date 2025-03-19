@@ -44,8 +44,11 @@ Ha sido diseñado para realizar sorteos utilizando los nombres que el usuario pr
 
 ## Hecho por:
 
-###Nadia Lopez
-| [<img src='./assets/Nadia.png' width=115><br><sub>Nadia Lopez
+### Nadia Lopez
 
+
+
+| [<img src="https://github.com/nadialop-dot/mi-primer-proyecto/blob/main/assets/Nadia.jpeg" width=115><br><sub>Nadia Lopez</sub>](https://github.com/camilafernanda) |  
+| :---: | :---: 
 
 
