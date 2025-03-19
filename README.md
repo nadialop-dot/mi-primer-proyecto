@@ -1,10 +1,9 @@
 <div align="center">
   <h1 align="center">
     Juego del amigo secreto
-    ![Amigo secreto logo]([https://imgur.com/4tyOT2s](https://imgur.com/a/FmHZoHo)
+   ![logo](https://github.com/user-attachments/assets/0cc73040-7aaf-45d1-8009-c88693f385e4)
 
-    </a>
-
+  
 ### Tópicos
 
 -  [Introducción](#introducción)
